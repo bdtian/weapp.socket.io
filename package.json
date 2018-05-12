@@ -1,6 +1,6 @@
 {
   "name": "weapp.socket.io",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "keywords": ["weapp", "wechat", "websocket", "socket.io", "client"],
   "main": "./lib/index",
   "files": ["lib/", "dist/"],
